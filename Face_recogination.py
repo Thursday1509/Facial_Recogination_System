@@ -22,6 +22,3 @@ while True:
 cv2.imshow("Video", imggray)
 cap.release()
 cv2.destroyAllWindows()
-
-
-
