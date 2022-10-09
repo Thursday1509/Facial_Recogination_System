@@ -1,4 +1,4 @@
-'''# face recognition
+# face recognition
 import cv2
 import numpy as np
 import sys
@@ -22,6 +22,6 @@ while True:
 cv2.imshow("Video", imggray)
 cap.release()
 cv2.destroyAllWindows()
-'''
+
 
 
